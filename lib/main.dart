@@ -28,7 +28,7 @@ class _Session07AppState extends State<Session07App> {
                 const Icon(Icons.rocket_launch, size: 64, color: Colors.teal),
                 const SizedBox(height: 16),
                 const Text(
-                  'Flutter Webを公開できた！',
+                  'Flutter Webを多分公開できたと思う！知らんけど。',
                   textAlign: TextAlign.center,
                   style: TextStyle(fontSize: 23, fontWeight: FontWeight.bold),
                 ),
